@@ -1,0 +1,6 @@
+{
+  "name": "Tema 1: La Comunicación y los Textos",
+  "description": "Ինտերակտիվ ուսումնական հավելված իսպաներենից հայերեն՝ սեղմեք իսպաներեն տեքստի վրա թարգմանությունը տեսնելու համար։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
